@@ -1,4 +1,4 @@
-# Machine-Learning-2
+# Machine Learning 2
 Programming and homework assignments for the Autumn 2019 Machine Learning 2 course at University of Amsterdam
 
 ## Homework assignment 1: Common probability distributions
@@ -28,3 +28,15 @@ Programming and homework assignments for the Autumn 2019 Machine Learning 2 cour
 ## Homework assignment 7: Linear dynamical systems and Causality 
 
 [Problems](https://github.com/vovamedentsiy/Machine-Learning-2/blob/main/homeworks/task/hw7.pdf) and [solutions](https://github.com/vovamedentsiy/Machine-Learning-2/blob/main/homeworks/hw/ML2_HW7_medentsiy.pdf)
+
+
+
+## Lab assignment 1: Independent Component Analysis
+Implented independent component analysis (ICA) to demix 5 audio signals using activation functions $\phi_0$.   Signals reconstructed using demixing matrix and various activation functions
+<p> 
+    <img src="https://github.com/vovamedentsiy/Machine-Learning-1/blob/main/programming/imgs/lab2/1.png" width="200" height ="250" />
+    <br>
+    <em>Real signal</em> 
+<p\>
+
+Find the code [here](https://github.com/vovamedentsiy/Machine-Learning-2/blob/main/lab/lab1/12179078_lab1.ipynb)
