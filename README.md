@@ -32,7 +32,7 @@ Programming and homework assignments for the Autumn 2019 Machine Learning 2 cour
 
 
 ## Lab assignment 1: Independent Component Analysis
-Implented independent component analysis (ICA) to demix 5 audio signals using activation functions <img src="https://render.githubusercontent.com/render/math?math=\phi_0(x) = -tanh(x), \phi_1(x) = -x +tanh(x), \phi_2(x) = -x^3, \phi_3(x) = -\frac{6x}{x^2 + 5}">.   Signals reconstructed using demixing matrix and various activation functions
+Implented independent component analysis (ICA) to demix 5 audio signals using activation functions <img src="https://render.githubusercontent.com/render/math?math=\phi_0(x) = -tanh(x), \phi_1(x) = -x+tanh(x), \phi_2(x) = -x^3, \phi_3(x) = -\frac{6x}{x^2+5}">.   Signals reconstructed using demixing matrix and various activation functions
 <p> 
     <img src="https://github.com/vovamedentsiy/Machine-Learning-1/blob/main/programming/imgs/lab2/1.png" width="200" height ="250" />
     <br>
