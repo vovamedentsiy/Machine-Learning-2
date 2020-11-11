@@ -27,7 +27,7 @@ Find the code [here](https://github.com/vovamedentsiy/Machine-Learning-2/blob/ma
 ## Lab assignment 3: Variational inference
 1. Implemented EM algorithm for the Bernoulli mixture model and trained it on the MNIST data: 
 
-<img src="https://render.githubusercontent.com/render/math?math=p(\bx|\bmu, \bpi) = \sum_{k=1}^K  \pi_k \prod_{i=1}^D \mu_{ki}^{x_i}(1-\mu_{ki})^{(1-x_i)}">
+<img src="https://render.githubusercontent.com/render/math?math=p(x|\mu, \pi) = \sum_{k=1}^K  \pi_k \prod_{i=1}^D \mu_{ki}^{x_i}(1-\mu_{ki})^{(1-x_i)}">
 
 2. Implemented VAE and trained it on the MNIST data
 Find the code [here](https://github.com/vovamedentsiy/Machine-Learning-2/blob/main/lab/lab3/12179078_lab3.ipynb)
